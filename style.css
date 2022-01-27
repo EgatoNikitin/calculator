@@ -85,3 +85,18 @@ button{
 ::placeholder {
 color: #fff; 
 }
+.main-button:hover{
+    background-color: rgb(117, 113, 113);
+}
+.main-button:nth-child(4):hover,
+.main-button:nth-child(8):hover,
+.main-button:nth-child(12):hover,
+.main-button:nth-child(16):hover{
+    background-color: rgb(226, 83, 83);
+}
+.result:hover{
+    background-color: rgb(245, 45, 19);
+}
+.zero-button:hover{
+    background-color: rgb(117, 113, 113);
+}
